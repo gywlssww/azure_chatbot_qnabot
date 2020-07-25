@@ -1,4 +1,4 @@
-# 온라인 강의 학습 도우미 챗봇 <조교 딩> - 동영상 강의 질의 응답용 챗봇 (QnA maker.ai 기반)
+# <조교 딩> - 동영상 강의 질의 응답용 챗봇 (QnA maker.ai 기반)
 
 # 사전 요구 사항
 - Follow instructions [here](https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/how-to/set-up-qnamaker-service-azure) to create a QnA Maker service.
